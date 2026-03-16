@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://employee-crud-task.onrender.com/api",
+  baseURL: "https://employee-crud-task-1.onrender.com/api",
 });
 
 export default API;
